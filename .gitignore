@@ -1,0 +1,134 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Logs & Temp Files
+*.log
+*.tmp
+debug.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Database & Flask stuff:
+*.db
+*.sqlite3
+*.sqlite3-journal
+instance/
+.webassets-cache
+
+# Django stuff:
+local_settings.py
+
+# Scrapy stuff:
+.scrapy
+
+# Documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environment & Dependency Management
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Poetry / Pipenv / PDM
+.pdm.toml
+.pdm-python
+.pdm-build/
+poetry.lock
+Pipfile.lock
+pdm.lock
+
+# Pyre / Pytype / Ruff
+.pyre/
+.pytype/
+.ruff_cache/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Cython Debug
+cython_debug/
+
+# PyCharm & VSCode
+.idea/
+.vscode/
+
+# PyPI Config
+.pypirc
+
+# Machine Learning Artifacts
+models/
+artifacts/
+mlruns/
+notebooks/
+*.pkl
+
+# Datasets (Optional)
+data/
+datasets/
+*.csv
+*.json
+*.xlsx
